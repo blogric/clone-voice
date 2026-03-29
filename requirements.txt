@@ -1,6 +1,7 @@
-gradio>=5.0
+gradio>=5.0.0
 TTS
 pydub
 torch
 torchaudio
 soundfile
+numpy
